@@ -74,7 +74,7 @@ footer {
   height: 50px;
   background-color: #aaa;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
   header {
      margin: 0 auto;
     /* padding: 15px 0;*/
